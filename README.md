@@ -1,4 +1,4 @@
-Diwali Sales Analysis
+                                                                  Dewali Analysis Report
 Description
 This project analyzes sales data related to Diwali festival purchases. The dataset contains information about customers, products, sales amounts, and other relevant details.
 ![image](https://github.com/Waqas56jb/Dewali_Sales_Analysis_Report/assets/156122615/fef95fcc-6ebc-4f78-a8bd-fa953413a8b8)
